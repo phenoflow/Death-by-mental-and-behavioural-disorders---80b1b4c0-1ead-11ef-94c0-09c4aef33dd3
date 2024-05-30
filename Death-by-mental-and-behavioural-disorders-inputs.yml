@@ -1,0 +1,246 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-classified---secondary.py
+inputModule3:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-disturbance---secondary.py
+inputModule4:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-undifferentiated---secondary.py
+inputModule5:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-affect---secondary.py
+inputModule6:
+  class: File
+  path: python/current-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule7:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-development---secondary.py
+inputModule8:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-unspec---secondary.py
+inputModule9:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-depress---secondary.py
+inputModule10:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-delir---secondary.py
+inputModule11:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-mania---secondary.py
+inputModule12:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-phobia---secondary.py
+inputModule13:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-associated---secondary.py
+inputModule14:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-substance---secondary.py
+inputModule15:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-organ---secondary.py
+inputModule16:
+  class: File
+  path: python/psychosexual-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule17:
+  class: File
+  path: python/subcortical-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule18:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-mention---secondary.py
+inputModule19:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-conduct---secondary.py
+inputModule20:
+  class: File
+  path: python/manic-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule21:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-adjustment---secondary.py
+inputModule22:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-schizophrenialike---secondary.py
+inputModule23:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-somatoform---secondary.py
+inputModule24:
+  class: File
+  path: python/other-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule25:
+  class: File
+  path: python/vascular-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule26:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-anxiety---secondary.py
+inputModule27:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-treatment---secondary.py
+inputModule28:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-statement---secondary.py
+inputModule29:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-lateonset---secondary.py
+inputModule30:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-induced---secondary.py
+inputModule31:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-schizotypal---secondary.py
+inputModule32:
+  class: File
+  path: python/social-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule33:
+  class: File
+  path: python/mixed-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule34:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-specified---secondary.py
+inputModule35:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-psych---secondary.py
+inputModule36:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-conversion---secondary.py
+inputModule37:
+  class: File
+  path: python/mental---secondary.py
+inputModule38:
+  class: File
+  path: python/delusional-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule39:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-dysfunc---secondary.py
+inputModule40:
+  class: File
+  path: python/profound-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule41:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-motor---secondary.py
+inputModule42:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-transvestism---secondary.py
+inputModule43:
+  class: File
+  path: python/neurotic-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule44:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-retard---secondary.py
+inputModule45:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-cocaine---secondary.py
+inputModule46:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-impulse---secondary.py
+inputModule47:
+  class: File
+  path: python/moderate-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule48:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-bulimia---secondary.py
+inputModule49:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-thought---secondary.py
+inputModule50:
+  class: File
+  path: python/pathological-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule51:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-remission---secondary.py
+inputModule52:
+  class: File
+  path: python/adult-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule53:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-infancy---secondary.py
+inputModule54:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-attachment---secondary.py
+inputModule55:
+  class: File
+  path: python/polymorphic-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule56:
+  class: File
+  path: python/sedative-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule57:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-impairm---secondary.py
+inputModule58:
+  class: File
+  path: python/vocal-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule59:
+  class: File
+  path: python/hyperkinetic-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule60:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-autism---secondary.py
+inputModule61:
+  class: File
+  path: python/paranoid-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule62:
+  class: File
+  path: python/cannabinoid-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule63:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-identity---secondary.py
+inputModule64:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-functioning---secondary.py
+inputModule65:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-alcohol---secondary.py
+inputModule66:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-volatil---secondary.py
+inputModule67:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-cannabis---secondary.py
+inputModule68:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-anorexia---secondary.py
+inputModule69:
+  class: File
+  path: python/catatonic-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule70:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-alzheimer---secondary.py
+inputModule71:
+  class: File
+  path: python/obsessivecompulsive-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule72:
+  class: File
+  path: python/emotional-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule73:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-eating---secondary.py
+inputModule74:
+  class: File
+  path: python/symptomatic-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule75:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-terror---secondary.py
+inputModule76:
+  class: File
+  path: python/atypical-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule77:
+  class: File
+  path: python/obsessional-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule78:
+  class: File
+  path: python/amnesic-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule79:
+  class: File
+  path: python/opioid-death-by-mental-and-behavioural-disorders-natural-cause---secondary.py
+inputModule80:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-hallucinogens---secondary.py
+inputModule81:
+  class: File
+  path: python/death-by-mental-and-behavioural-disorders-natural-cause-tobacco---secondary.py
+inputModule82:
+  class: File
+  path: python/output-cases.py
